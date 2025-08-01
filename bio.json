@@ -1,38 +1,110 @@
 {
-  "version": 1,
-  "name": "Your Name",
-  "description": "A Short Description",
-  "sections": [
-    {
-      "title": "About Me",
-      "type": "text",
-      "content": "A longer description about you."
-    },
-    {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "Company One",
-          "description": "Software Engineer.",
-          "url": "https://example.com",
-          "date": "2025–Present"
-        }
-      ]
-    },
-    {
-      "title": "Socials",
-      "type": "links",
-      "links": [
-        {
-          "title": "Website",
-          "url": "https://example.com"
-        },
-        {
-          "title": "GitHub",
-          "url": "https://github.com/example"
-        }
-      ]
-    }
-  ]
+	"version": 1,
+	"name": "Viorel Mocanu",
+	"description": "Making the web a better place, one B2B SaaS at a time.",
+	"sections": [
+		{
+			"title": "About Me",
+			"type": "text",
+			"content": "Crafting web experiences 💡 and growing businesses 🪴 since the early 2000s. Love IA, UX, UI, FE, RWD, marketing, leadership, product, data, growth hacking and AI. Experienced in auditing, optimizing, BPR & GTM. Currently leading growth at https://pentest-tools.com and vlogging on https://youtube.com/@viorelmocanu"
+		},
+		{
+			"title": "Experience",
+			"type": "list",
+			"items": [
+				{
+					"title": "Pentest-Tools.com",
+					"description": "Head of Growth",
+					"url": "https://pentest-tools.com",
+					"date": "2020–Present"
+				},
+				{
+					"title": "GloriaFood",
+					"description": "Marketing Consultant => Head of Marketing",
+					"url": "https://gloriafood.com",
+					"date": "2019–2020"
+				},
+				{
+					"title": "Ringier AG",
+					"description": "Head of Digital Development",
+					"url": "https://www.ringier.com/",
+					"date": "2018–2019"
+				},
+				{
+					"title": "eJobs Romania",
+					"description": "Head of Digital Development",
+					"url": "https://www.ejobs.ro/",
+					"date": "2018–2019"
+				},
+				{
+					"title": "EveryMatrix Ltd",
+					"description": "Design Director => Site Building Team Leader => Product Owner",
+					"url": "https://www.everymatrix.com/",
+					"date": "2010–2018"
+				},
+				{
+					"title": "Marketing Manager",
+					"description": "Trendline Media / VirtualSoft",
+					"url": "https://virtualsoft.ro/",
+					"date": "2008–2009"
+				},
+				{
+					"title": "Web Developer",
+					"description": "new media Agency",
+					"url": "https://nma.ro/",
+					"date": "2007–2008"
+				},
+				{
+					"title": "Web Developer",
+					"description": "Ensight Management Consulting",
+					"url": "https://www.ensight.ro/en/",
+					"date": "2006–2007"
+				}
+			]
+		},
+		{
+			"title": "Socials",
+			"type": "links",
+			"links": [
+				{
+					"title": "Website 🇷🇴",
+					"url": "https://www.viorelmocanu.ro"
+				},
+				{
+					"title": "LinkedIn",
+					"url": "https://www.linkedin.com/in/viorelmocanu"
+				},
+				{
+					"title": "GitHub",
+					"url": "https://github.com/viorelmocanu"
+				},
+				{
+					"title": "YouTube 🇷🇴",
+					"url": "https://youtube.com/@viorelmocanu"
+				},
+				{
+					"title": "X / Twitter",
+					"url": "https://x.com/ViorelMocanu"
+				}
+			]
+		},
+		{
+			"title": "Support Me",
+			"type": "links",
+			"links": [
+				{
+					"title": "Patreon",
+					"url": "https://www.patreon.com/c/ViorelMocanu"
+				},
+				{
+					"title": "Buy Me a Coffee",
+					"url": "https://buymeacoffee.com/viorel"
+				},
+				{
+					"title": "GitHub Sponsors",
+					"url": "https://github.com/sponsors/ViorelMocanu/"
+				}
+			]
+		}
+	]
 }
