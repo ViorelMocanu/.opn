@@ -6,7 +6,7 @@
 		{
 			"title": "About Me",
 			"type": "text",
-			"content": "Crafting web experiences 💡 and growing businesses 🪴 since the early 2000s. Love IA, UX, UI, FE, RWD, marketing, leadership, product, data, growth hacking and AI. Experienced in auditing, optimizing, BPR & GTM. Currently leading growth at https://pentest-tools.com and vlogging on https://youtube.com/@viorelmocanu"
+			"content": "Crafting web experiences and growing businesses 🪴 since the early 2000s. \nLove IA, UX, UI, FE, RWD, marketing, leadership, product, data, growth hacking and AI. Experienced in auditing, optimizing, BPR & GTM. \nCurrently leading growth at Pentest-Tools.com and trying to help people get an IT job on YouTube."
 		},
 		{
 			"title": "Experience",
@@ -89,6 +89,24 @@
 			]
 		},
 		{
+			"title": "Community",
+			"type": "links",
+			"links": [
+				{
+					"title": "Newsletter 🇷🇴",
+					"url": "https://viorelmocanu.kit.com/newsletter"
+				},
+				{
+					"title": "Discord 🇷🇴",
+					"url": "https://discord.com/invite/UpnAutz"
+				},
+				{
+					"title": "Facebook Group 🇷🇴",
+					"url": "https://www.facebook.com/groups/carierait/"
+				}
+			]
+		},
+		{
 			"title": "Support Me",
 			"type": "links",
 			"links": [
@@ -103,6 +121,10 @@
 				{
 					"title": "GitHub Sponsors",
 					"url": "https://github.com/sponsors/ViorelMocanu/"
+				},
+				{
+					"title": "Revolut (direct transfer)",
+					"url": "https://revolut.me/viorelc7t"
 				}
 			]
 		}
