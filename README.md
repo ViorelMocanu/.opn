@@ -1,7 +1,5 @@
 # My OPN Profile
 
-![OPN Logo](https://opn.bio/assets/logo.png)
-
 This profile holds data for the OPN profile of `@viorelmocanu`.
 
 Find the profile here: [https://opn.bio/@viorelmocanu](https://opn.bio/@viorelmocanu)
